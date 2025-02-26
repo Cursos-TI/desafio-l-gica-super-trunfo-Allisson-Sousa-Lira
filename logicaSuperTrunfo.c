@@ -1,16 +1,3 @@
-/* O Super Trunfo é um jogo no qual os jogadores comparam as propriedades de suas cartas para determinar quem tem a mais forte. Cada carta representa um objeto com várias propriedades.
-Nesse desafio, o tema do jogo será Países, e as cartas serão divididas por estados, com cada estado tendo quatro cartas que representam diferentes cidades.
-
-Cada país será dividido em oito estados, identificados pelas letras de A a H. Cada estado terá quatro cidades, numeradas de 1 a 4.
-A combinação da letra do estado e o número da cidade define o código da carta (por exemplo, A01, A02, B01, B02).
-
-Cada carta de cidade apresentará as seguintes informações:
-
-População : número de habitantes da cidade.
-Área : área total da cidade em quilômetros quadrados (km²).
-PIB : produto interno bruto da cidade, representando a soma de todos os bens e serviços produzidos no município.
-Número de pontos turísticos : quantidade de pontos turísticos famosos na cidade.*/
-
 #include <stdio.h>
 
 int main(){
